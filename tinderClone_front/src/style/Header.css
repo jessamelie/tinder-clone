@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.tinderLogo{
+    object-fit: contain;
+    height: 44px;
+}
+
+.profilIcon{
+    padding: 20px;
+}
+
+.messageIcon{
+    padding: 20px;
+}
